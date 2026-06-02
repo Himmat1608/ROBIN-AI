@@ -1,0 +1,42 @@
+{
+    "name": "Himmat",
+    "nickname": "boss",
+    "assistant_titles": [
+        "boss",
+        "sir",
+        "chief",
+        "captain"
+    ],
+    "favorite_music": [
+        "rnb",
+        "hip-hop",
+        "toxic",
+        "ghost"
+    ],
+    "preferred_browser": "brave",
+    "favorite_player": "Cristiano Ronaldo",
+    "favorite_clubs": [
+        "Manchester United",
+        "Real Madrid"
+    ],
+    "favorite_anime": "One Piece",
+    "interests": [
+        "Music",
+        "AI",
+        "Coding",
+        "Anime"
+    ],
+    "play_history": [
+        "Chicago",
+        "Ghazals",
+        "Poison",
+        "blinding lights",
+        "ghulam ali",
+        "iceman",
+        "bilal saeed",
+        "again",
+        "kharch karun",
+        "kharch karod",
+        "kishore kumar"
+    ]
+}

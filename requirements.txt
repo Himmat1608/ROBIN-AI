@@ -1,0 +1,8 @@
+requests
+python-dotenv
+SpeechRecognition
+pyttsx3
+customtkinter
+psutil
+edge-tts
+PyAudio

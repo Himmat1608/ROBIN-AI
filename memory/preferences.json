@@ -1,0 +1,9 @@
+{
+    "music_platform": "spotify",
+  "browser": {
+    "name": "chrome",
+    "profile_directory": "Default"
+  }
+
+    
+}
